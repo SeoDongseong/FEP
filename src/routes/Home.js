@@ -1,7 +1,7 @@
 function Home() {
   return (
     <div>
-      <h1>Hello world!!!</h1>
+      <h1>금융교실</h1>
     </div>
   );
 }

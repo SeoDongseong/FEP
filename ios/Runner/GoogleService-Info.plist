@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>317240963668-ajk8db9q9ka5u3b3u54prev9h0cbjrpg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.317240963668-ajk8db9q9ka5u3b3u54prev9h0cbjrpg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>317240963668-3s4mdk3v2r2n1fiahjg73qal7aotpnp0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBnSE0i0YoyuXvBVPCXo0OH5PZ23UYAPKw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>317240963668</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterflow.financialeducationplatform</string>
+	<key>PROJECT_ID</key>
+	<string>financialeducationplatform</string>
+	<key>STORAGE_BUCKET</key>
+	<string>financialeducationplatform.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:317240963668:ios:3f7f918af849d9e8d9b3c1</string>
+</dict>
+</plist>

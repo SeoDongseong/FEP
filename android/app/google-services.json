@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "317240963668",
+    "project_id": "financialeducationplatform",
+    "storage_bucket": "financialeducationplatform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317240963668:android:af566cfbe081f96cd9b3c1",
+        "android_client_info": {
+          "package_name": "com.flutterflow.financialeducationplatform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317240963668-6b6fhcjmri9lt0v9keo9486on1vdmgt0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.financialeducationplatform",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "317240963668-qk31e3ma9opnpb30cpt3as00km44kgng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4wJnLwodRxD8UtOjXeI7A9VcEXOHB2Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317240963668-qk31e3ma9opnpb30cpt3as00km44kgng.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317240963668-ajk8db9q9ka5u3b3u54prev9h0cbjrpg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.financialeducationplatform"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317240963668:android:6ec7b3f6a61d1fc1d9b3c1",
+        "android_client_info": {
+          "package_name": "com.flutterflow.financialeducationplatformforstd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317240963668-3s4mdk3v2r2n1fiahjg73qal7aotpnp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.financialeducationplatformforstd",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "317240963668-qk31e3ma9opnpb30cpt3as00km44kgng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4wJnLwodRxD8UtOjXeI7A9VcEXOHB2Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317240963668-qk31e3ma9opnpb30cpt3as00km44kgng.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "317240963668-ajk8db9q9ka5u3b3u54prev9h0cbjrpg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.financialeducationplatform"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

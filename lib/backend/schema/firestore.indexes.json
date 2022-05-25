@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "Property",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "PropertyAuthInfo",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "PropertyIndex",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
